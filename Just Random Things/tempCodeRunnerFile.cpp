@@ -1,1 +1,1 @@
-cout << (h*w-x*h1*h1) << endl;
+sizeof(score) + sizeof(score[0])
