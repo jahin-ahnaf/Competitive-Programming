@@ -9,6 +9,9 @@
         "limits": "cpp",
         "semaphore": "cpp",
         "valarray": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "bitset": "cpp",
+        "algorithm": "cpp",
+        "format": "cpp"
     }
 }
